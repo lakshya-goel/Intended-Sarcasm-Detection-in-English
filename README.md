@@ -16,4 +16,4 @@ Evaluation Metrics: The task used precision, recall, accuracy, and macro-F1 as e
 
 The task provided a comprehensive understanding of the complexities involved in sarcasm detection, highlighting the linguistic nuances that can vary significantly. It not only deepened our technical skills in NLP but also underscored the importance of accurate and reliable data annotation methods in improving the performance of sarcasm detection models.
 
-# Models: https://drive.google.com/drive/folders/1i57GnQ8Q2izMdpI-t4RgHhj1Pv1CCHT2?usp=sharing
+Models hosted at the following google drive link: https://drive.google.com/drive/folders/1i57GnQ8Q2izMdpI-t4RgHhj1Pv1CCHT2?usp=sharing
